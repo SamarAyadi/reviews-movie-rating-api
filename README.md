@@ -10,3 +10,6 @@ npm install
 ```
 npm run start:dev
 ```
+
+![image](https://user-images.githubusercontent.com/74440603/209548956-ae92649e-3db1-474d-b626-73ad389bb276.png)
+
